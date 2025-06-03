@@ -1,3 +1,6 @@
+
+![Screenshot 2025-06-03 120122](https://github.com/user-attachments/assets/f7849a9a-fb0e-4363-8148-65d4e1d43b5c)
+
 # Simple Calculator Webapp
 
 A lightweight React application that provides basic calculator functionality (addition, subtraction, multiplication, division) with a clean, responsive UI.
@@ -8,9 +11,8 @@ A lightweight React application that provides basic calculator functionality (ad
 3. [Setup & Installation](#setup--installation)  
 4. [Available Scripts](#available-scripts)  
 5. [Project Structure](#project-structure)  
-6. [Technologies](#technologies)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
+6. [Technologies](#technologies)   
+7. [License](#license)  
 
 ## Features
 - Real-time arithmetic operations  
